@@ -139,7 +139,7 @@ const App = () => {
               />{" "}
               <br />
               <br />
-              <input type="submit" value="Get Temperature" />
+              <input type="submit" value="Get Temperature" className="temp" />
             </form>
             <div className="locations">
               {locations.map((location, index) => (

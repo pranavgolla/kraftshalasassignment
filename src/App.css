@@ -70,4 +70,7 @@ input[type="text"] {
 .error{
   color: red;
 }
+.temp{
+  border-radius: 5px;
+}
 
