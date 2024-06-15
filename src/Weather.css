@@ -1,0 +1,17 @@
+.weather-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+  }
+  
+  .weather-card.current-location {
+    border: 2px solid #61dafb;
+  }
+  
+  .weather-card h3, .weather-card h4 {
+    margin: 5px 0;
+  }
+  
